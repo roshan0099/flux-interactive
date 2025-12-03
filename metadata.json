@@ -1,0 +1,5 @@
+{
+  "name": "Flux",
+  "description": "An interactive, highly aesthetic fluid simulation with generative audio that reacts to your touch.",
+  "requestFramePermissions": []
+}
